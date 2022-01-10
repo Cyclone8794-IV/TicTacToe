@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Tic Tac Toe
+A simple project written in JavaScript using the React Engine. This is a program that shows a history of moves and allows you to move between them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
